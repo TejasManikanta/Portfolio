@@ -52,9 +52,7 @@ img{
 }
 
 
-/*End global*/
 
-/*Start reusable*/
 .container{
     width: 90%;
     max-width: 120rem;
@@ -113,9 +111,6 @@ img{
 .has-margin-left{
     margin-left: 5rem;
 }
-/*End reusable*/
-
-/*Start header*/
 header{
     width: 100%;
     height: 100vh;
@@ -315,9 +310,8 @@ li{
         opacity: 0;
     }
 }
-/*End header*/
 
-/*Start about*/
+
 .about .container{
     display: flex;
     align-items: center;
@@ -403,9 +397,8 @@ li{
 }
 
 
-/*End about*/
 
-/*Start services*/
+
 .services-img{
     position: absolute;
     left:-10%;
@@ -496,9 +489,8 @@ li{
 .my-skills a:hover{
 color:#c26700;
 }
-/*End services*/
 
-/*Start portfolio*/
+
 .portfolio-item{
     display: flex;
     align-items: center;
@@ -545,9 +537,8 @@ color:#c26700;
 }
 
 
-/*End services*/
 
-/*Start timeline*/
+
 .timeline ul{
     border-left: 4px solid #ffe838;
     border-radius: .8rem;
