@@ -632,12 +632,9 @@ color:#c26700;
 }
 
 
-/*End timeline*/
 
-/*Start contact*/
-/*End contact*/
 
-/*Start footer*/
+
 .copyright{
     width: 100%;
     text-align: center;
@@ -677,9 +674,9 @@ color:#c26700;
     
 }
 
-/*End footer*/
 
-/*Start animations*/
+
+
 @keyframes move{
     0% {
 		transform: scale(0.95);
@@ -744,9 +741,8 @@ color:#c26700;
 }
 
 
-/*End animations*/
 
-/*Start media queries*/
+
 @media screen and (max-width: 768px){
     body{
         width: 100%;
