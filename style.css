@@ -221,7 +221,7 @@ li{
     font-size: 7rem;
     font-weight: 300;
 }
-.landing-text h1{
+/* .landing-text h1{
     font-size: 10rem;
     font-family: 'The Historia Demo';
     background: linear-gradient(#f0c800ce,#ff5a3dcb);
@@ -229,7 +229,17 @@ li{
     -webkit-text-fill-color: transparent;
     padding: 1rem;
     user-select: none;
+} */
+.landing-text h1 {
+    font-size: 10rem;
+    font-family: 'Anton', sans-serif;
+    background: linear-gradient(#f0c800ce, #ff5a3dcb);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding: 1rem;
+    user-select: none;
 }
+
 
 .landing-text h6{
     font-size: 2.5rem;
