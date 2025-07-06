@@ -231,7 +231,7 @@ li{
     user-select: none;
 } */
 .landing-text h1 {
-    font-size: 10rem;
+    font-size: 8rem;
     font-family: 'Anton', sans-serif;
     background: linear-gradient(#f0c800ce, #ff5a3dcb);
     -webkit-background-clip: text;
